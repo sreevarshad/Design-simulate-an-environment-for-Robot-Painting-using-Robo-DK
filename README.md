@@ -1,15 +1,13 @@
-# Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK
+# EXPERIMENT:3 Design simulate an environment for Robot Painting using Robo DK
  
-## AIM:
+## Aim:
 To design a and simulate the painting environment for a serial manipluator and teach the surface for the same 
 
 ## Software  Required:
  
-  Robodk 
-## Theory
- 
+1.Robodk 
 
-## Procedure
+## Procedure:
 New project
 Follow these steps to create a new RoboDK project (RDK station):
 1. Download and install RoboDK from the website: https://robodk.com/download
@@ -263,8 +261,8 @@ END
  
 
  
-## Results of simulation :
+## Simulation :
  ![painting lab exam](https://user-images.githubusercontent.com/88670187/205499672-171ad469-a21e-4312-9bd2-db78437ec738.png)
 
-##Result:
+## Result:
 To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
