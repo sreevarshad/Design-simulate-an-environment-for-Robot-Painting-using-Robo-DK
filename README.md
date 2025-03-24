@@ -72,7 +72,8 @@ New tools can be created in RoboDK from previously loaded 3D geometry:
 1. Select File Open (as described in the previous section)
 2. Select the Paint gun.stl file to add it as an object (it will be added at the robot base frame)
 3. Drag & drop the object to the robot item inside the station tree as shown in the next image
-New tools can be loaded or saved as a .tool format.
+new tools can be loaded or saved as a .tool format.
+
 By default, RoboDK will define the TCP at the position [X,Y,Z]=[0,0,200] mm. This can be changed by entering
 the coordinates manually and/or by moving the TCP holding the ALT+Shift key as shown in the next image:
 1. Hold ALT+Shift or select the highlighted button from the toolbar
@@ -94,6 +95,7 @@ double clicking the Paint gun object. The mouse wheel can be used on top of each
 update the position on the main screen.
 Note: These are estimate values according to the 3D drawings. If the definition of the TCP is calibrated on the
 robot it is possible to import it by pasting the coordinates in that box.
+
 By default, RoboDK will define the TCP at the position [X,Y,Z]=[0,0,200] mm. This can be changed by entering
 the coordinates manually and/or by moving the TCP holding the ALT+Shift key as shown in the next image:
 1. Hold ALT+Shift or select the highlighted button from the toolbar
@@ -140,12 +142,13 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 9. Select Program Teach Target (Ctrl+T) or the appropriate button in the toolbar to create a new
 target
 10. Rename the target to Approach as shown in step 7
-11. 11. Select the Home target and the Approach target alternatively to see the robot moving between the two
+11. Select the Home target and the Approach target alternatively to see the robot moving between the two
 targets
 12. Right click the target and select Teach Current Position (Alt+double click) if a different position needs
 to be recorded for one of the targets
 13. Right click the target and select Target Options… (F3) to open the target options window shown
 in the next image
+
 Add an Approach Program
 Follow these steps to create a program that moves from the Home target to the Approach target:
 1. Select Program Add Program from the menu or the corresponding button in the toolbar (as
