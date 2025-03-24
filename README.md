@@ -26,8 +26,8 @@ It is also possible to select the corresponding button in the toolbar.
 In this example, we will use a UR10 robot (10 kg payload robot and 1.3 m reach).
 3. Select Download. The robot should automatically appear in the station in a few seconds.
 4. The online library can be closed once the robot is loaded
-  
-5. ![image](https://user-images.githubusercontent.com/36288975/173728975-43978edf-209a-43b3-bc4c-28d2d90bab18.png)
+
+ ![image](https://user-images.githubusercontent.com/36288975/173728975-43978edf-209a-43b3-bc4c-28d2d90bab18.png)
 Add a Reference Frame
 A Reference frame allows placing objects with respect to a robot or with respect to other objects in the 3D
 space (including position and orientation).
@@ -178,8 +178,8 @@ the left/right keys.
 5. Hold Alt to move an existing target
 6. Hold Alt+Shift to move an existing target while keeping it on the surface
 7. Select Esc key or right click on the screen and select Done to exit the Create Targets on Surface mode
-   
-8. ![image](https://user-images.githubusercontent.com/36288975/173729366-e0d49a75-454d-4366-b7f5-1e02de369d1d.png)
+
+ ![image](https://user-images.githubusercontent.com/36288975/173729366-e0d49a75-454d-4366-b7f5-1e02de369d1d.png)
 
 1. Select all the targets created on the surface and right click
 Tip: Hold the Ctrl key to select multiple targets. Alternatively, select the Target 3, hold shift, then select Target
@@ -194,6 +194,7 @@ movement will be a joint move and following movements will be linear.
 
 
 ![image](https://user-images.githubusercontent.com/36288975/173729404-a7b7ffef-3366-434b-9cc4-8246e93fec28.png)
+
 Add a Retract Program
 Similar to the previous operations:
 1. With the robot placed at the last target, move the robot upwards by increasing the Z coordinate of the
