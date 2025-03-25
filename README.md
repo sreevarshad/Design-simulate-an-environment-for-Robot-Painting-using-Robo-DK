@@ -210,8 +210,6 @@ Home target
 
 ##Program:
 ~~~
-Developed by: V.K.Sujith kumar
-RegisterNumber:  212221220052
 &ACCESS RVP
 &REL 1
 &PARAM TEMPLATE = C:\KRC\Roboter\Template\vorgabe
